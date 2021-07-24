@@ -1,0 +1,80 @@
+.a{
+  height: 200px;
+  width: 300px;
+  background-color: aqua;
+  text-align: center;
+  padding: 20px;
+  float: right;
+}
+
+.a:hover{
+         background-color: rgb(247, 26, 210);
+
+
+}
+.b{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(252, 15, 15);
+    text-align: center;
+    padding: 20px;
+    }
+    .b:hover{
+        background-color: rgb(23, 231, 23);
+    }
+
+
+/*hover close*/
+ul{
+    
+list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: yellow;
+}
+
+
+li{
+    float: left;
+    padding: 14px 16px;
+}
+
+li a{
+    text-decoration: none;
+}
+li a:hover{
+    background-color: pink;
+
+}
+
+
+body{
+background-color: navy;
+
+}
+section{
+color: white;
+font-size: 50px;
+text-align: center;
+}
+
+.p{
+color: yellow;
+font-style: italic;
+}
+
+
+
+.footer{
+    height: 80px;
+    width: 1400px;
+    background-color: yellow;
+    text-align: center;
+    
+   
+}
+.l{
+    color: rgb(245, 49, 14);
+    font-size: 15px;
+}

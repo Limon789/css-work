@@ -1,0 +1,35 @@
+body{
+background-color: lightblue;
+
+}
+div{
+text-align: center;
+font-style: oblique;
+color: orangered;
+
+}
+hr{
+    color: yellow;
+}
+
+.LL{
+    color:black;
+height: 200px;
+width: 300px;
+border: 2px solid rgb(211, 16, 32);
+overflow: auto;
+margin: 5px;
+float: left;
+font-size:large;
+}
+.L{
+    color: rgb(243, 32, 162);
+height: 200px;
+width: 300px;
+border: 2px solid rgb(211, 16, 32);
+overflow: auto;
+margin: 5px;
+float: left;
+font-size:large;
+float: right;
+}
